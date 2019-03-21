@@ -17,9 +17,6 @@ And its open to everyone to read and follow (if you are just starting out).
     - Completed: First 3 certeficates;
     - Learnt Basic jQuery, Bootstrap, Sass, React;
 - [Scrimba](https://scrimba.com/) -> Learn **React Course**.
-- Done some projects with React on my own.
-- Started a fullstack project with React, Node, Express & MongoDB.
-    - This project was a Spendings app for my parents.
 - [JS ES6-ES8 from TheCodingTrain](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr);
 - [Scrimba's  Bootstrap course](https://scrimba.com/p/pD5KUE/cPmpLhm);
 - [30DaysOfCSS Course](https://codecollege.ca/courses/137487/lectures/2437443); 
