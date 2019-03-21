@@ -19,7 +19,7 @@ And its open to everyone to read and follow (if you are just starting out).
 - [Scrimba](https://scrimba.com/g/glearnreact) -> Learn **React Course**.
 - [JS ES6-ES8 from TheCodingTrain](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr);
 - [Scrimba's  Bootstrap course](https://scrimba.com/g/gbootstrap4);
-- [30DaysOfCSS Course](https://codecollege.ca/courses/137487/lectures/2437443); 
+- [30DaysOfCSS Course](https://codecollege.ca/p/css3-coding-challenge); 
 - [WesBos' JavaScript30](https://courses.wesbos.com/account/access/5c7926b485f96c03c1e36b1f)
 - Paid Course: [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/);
 - Free Course: [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/web-design-secrets/);
