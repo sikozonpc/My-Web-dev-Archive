@@ -1,6 +1,6 @@
 # Archive Introduction
 
-> On my journey I've stored files with information that I might wanted to read in a near future, but it wasnt organized. Then, after some time I decided to write this arhive **with the stuff and resources I learnt along the way with its respective sources**.
+> On my journey I've stored files with information that I might wanted to read in a near future, but it wasnt organized. Then, after some time I decided to write this archive **with the stuff and resources I learnt along the way with its respective sources**.
 <br>
 
 Note that this is not accurate since I can't remember all the sources of information and hey are very scattered on the Internet.
