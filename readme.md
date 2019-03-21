@@ -32,8 +32,8 @@ And its open to everyone to read and follow (if you are just starting out).
 ## Algorithms and Data Structures 
 - [freeCodeCamp](https://learn.freecodecamp.org/) -> Coding Interview Prep Section.
     - Learnt Stacks, Queues, Sets, Maps, Hash Tables, Linked Lists, Search Algorithms...
-    - Video: [What is a HashTable Data Structure](https://www.youtube.com/watch?v=MfhjkfocRR0&t=288s);
-    - Video Playlist: [HackerRank's Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX);
+- Video: [What is a HashTable Data Structure](https://www.youtube.com/watch?v=MfhjkfocRR0&t=288s);
+- Video Playlist: [HackerRank's Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX);
 
 ## Interview Prep & other bits
 - Informative! : [Fredrik Christenson's Front-end Job Interviews videos](https://www.youtube.com/watch?v=nRI0dn6GTj8);
