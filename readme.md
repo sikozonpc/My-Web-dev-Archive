@@ -39,7 +39,7 @@ And its open to everyone to read and follow (if you are just starting out).
 - [CV's Template for Wev Dev](https://www.youtube.com/watch?v=oacuzMwq25A&feature=push-u-sub&attr_tag=deU4c2ixCLBSDkym%3A6);
 
 
-## Specific knowlage & Books
+## Specific knowladge & Books
 - Important for interviews: [React Life-Cicle Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ );
 - [Css flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ );
 - [JavaScript ProtoTypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain#Inheriting_properties);
