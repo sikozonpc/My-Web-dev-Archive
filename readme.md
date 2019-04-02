@@ -34,12 +34,12 @@ And its open to everyone to read and follow (if you are just starting out).
 - Video: [What is a HashTable Data Structure](https://www.youtube.com/watch?v=MfhjkfocRR0&t=288s);
 - Video Playlist: [HackerRank's Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX);
 
-## Interview Prep & other bits:
+## Interview Prep & other sotfware engineering bits:
 - Informative! : [Fredrik Christenson's Front-end Job Interviews videos](https://www.youtube.com/watch?v=nRI0dn6GTj8);
 - [Chingo's 30 principles to level-up your Soft Skills](https://medium.com/chingu/30-ways-to-level-up-your-skills-stack-carnegies-wisdom-remix-4c532aabd0c0);
 - [Telmo's 5 Interview Questions that every Frontend Web Developer Should Know](https://www.youtube.com/watch?v=0fFYacBQPbA);
 - [CV's Template for Wev Dev](https://www.youtube.com/watch?v=oacuzMwq25A&feature=push-u-sub&attr_tag=deU4c2ixCLBSDkym%3A6);
-
+- [Software Engineering survival guide](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166);
 
 ## Specific knowladge & Books:
 - Important for interviews: [React Life-Cicle Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ );
