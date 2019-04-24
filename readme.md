@@ -40,6 +40,7 @@ And its open to everyone to read and follow (if you are just starting out).
 - [Telmo's 5 Interview Questions that every Frontend Web Developer Should Know](https://www.youtube.com/watch?v=0fFYacBQPbA);
 - [CV's Template for Wev Dev](https://www.youtube.com/watch?v=oacuzMwq25A&feature=push-u-sub&attr_tag=deU4c2ixCLBSDkym%3A6);
 - [Software Engineering survival guide](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166);
+- [10 Important CSS interview Questions](https://www.youtube.com/watch?v=ZohZS6xLYE4);
 
 ## Specific knowladge & Books:
 - Important for interviews: [React Life-Cicle Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ );
