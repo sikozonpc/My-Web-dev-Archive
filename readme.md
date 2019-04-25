@@ -26,6 +26,7 @@ And its open to everyone to read and follow (if you are just starting out).
 - [Gatsby Docs](https://www.gatsbyjs.org/);
 
 ## Computer Science Fundamentals:
+- [CS Fundamentals, Very Good](https://www.youtube.com/watch?v=6bKeE1A5-LY&list=RDQMPq8CetfdHKs&index=1)
 - [CS50 Course](https://www.edx.org/course/cs50s-introduction-to-computer-science);
 
 ## Algorithms and Data Structures:
