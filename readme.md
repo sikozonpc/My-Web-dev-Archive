@@ -66,3 +66,8 @@ And its open to everyone to read and follow (if you are just starting out).
 - Very Good! : [FontAwesome](https://fontawesome.com/);
 - Very Good! Landing Pages work: [PageFlows](https://pageflows.com/pages/)
 - Css animations [Animista](http://animista.net/);
+
+## React Stack stuff
+- [React Sagas](https://flaviocopes.com/redux-saga/);
+
+
